@@ -1,5 +1,4 @@
 
-````markdown
 # distributed-correlation
 Collects the code for the simulation section of the paper *“When Data Can’t Meet: Estimating Correlation Across Privacy Barriers.”*
 
@@ -22,7 +21,7 @@ Collects the code for the simulation section of the paper *“When Data Can’t 
 To install:
 ```r
 install.packages(c("extraDistr", "dplyr", "tidyr", "ggplot2"))
-````
+
 
 ## How to run
 
